@@ -1,0 +1,9 @@
+Library1 - Clementinum, plague
+Library2 - Bibliotheca Alexandria,Alexandria,Egypt
+Library3 - Trinity College Old Library,Dublin
+Library4 - Central Library of Vancouver, Canada
+Library5 - Library of Congress,Washington D.C
+Library6 - New York Public Library(Stephan A.Shwarzman Building)
+Library7 - Marciana Library,Venice
+Library8 - Seatle Public Library's ,Central Library
+
